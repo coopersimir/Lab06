@@ -1,4 +1,5 @@
 /**
+ * This program test the functions of the SortedArrayList program
  * @author Simir Cooper
  * @since 3/18/21
  * 
