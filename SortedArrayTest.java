@@ -1,4 +1,5 @@
 /**
+ * Program tests sorted array list functions 
  * @author Simir Cooper
  * @since 3/18/21
  * 
